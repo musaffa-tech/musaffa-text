@@ -1,0 +1,6 @@
+{
+  "name": "Musaffa Text",
+  "description": "A sleek, secure, and fast messaging application with end-to-end encryption, Bluetooth offline messaging, biometric security, and HD audio/video calls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

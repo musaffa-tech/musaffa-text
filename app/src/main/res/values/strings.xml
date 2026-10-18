@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Musaffa Text</string>
+    <string name="tagline">Fast, Private &amp; Encrypted Messaging</string>
+    <string name="chats">Chats</string>
+    <string name="calls">Calls</string>
+    <string name="offline_mesh">Offline Mesh</string>
+    <string name="settings">Settings</string>
+    <string name="contacts">Contacts</string>
+    <string name="e2ee_verified">End-to-End Encrypted</string>
+    <string name="type_message_hint">Message…</string>
+    <string name="bluetooth_radar">Bluetooth Mesh</string>
+    <string name="biometric_title">Unlock Musaffa Text</string>
+    <string name="biometric_subtitle">Authenticate using your biometrics to access secure chats</string>
+    <string name="phone_login_title">Welcome to Musaffa Text</string>
+    <string name="phone_login_subtitle">Enter your phone number to get started</string>
+</resources>
